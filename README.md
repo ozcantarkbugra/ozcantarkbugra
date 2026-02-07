@@ -90,7 +90,7 @@
 <div align="center">
 
 #### **Full Stack Developer @ NEW MIND**  
-**May 2023 – Present**
+**May 2023 – Jan 2026**
 
 - 🔧 Developed and maintained **backend services** for **AI-powered legal technology platforms** (Python & Node.js)
 - 📊 Processed **large-scale legal datasets** in production environments
