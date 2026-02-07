@@ -1,12 +1,26 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Merhaba!+I'm+Tar%C4%B1k+%F0%9F%91%8B;Full+Stack+Developer;Web+Scraping+Expert;Backend+Developer;Data+Processing+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Merhaba!+I'm+Tar%C4%B1k+%F0%9F%91%8B;Full+Stack+Developer;Web+Scraping+Expert;Backend+Developer;Data+Processing+Specialist" alt="Typing SVG" />
+</div>
+
+---
+
+### 🌐 Portfolio
+
+<div align="center">
+
+**[Tarık Buğra Özcan – Full Stack Developer (Python, Node.js, React)](https://ozcantarkbugra.github.io/MyPortfolio/)**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ozcantarkbugra.github.io/MyPortfolio/)
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working at **Yapay Zeka Teknolojileri ile Uğraşan Bilgi Yönetim Sistemlerinde** as a **Web Department Developer**
+**Full Stack Developer** with **2+ years** of experience building **AI-powered legal technology platforms**. Strong in **Python** and **Node.js** on the backend, **React.js** on the frontend. Focus on **web scraping**, large-scale **data processing pipelines**, and **Elasticsearch**-driven search systems. Over a year of experience collecting, transforming, and storing structured data in **PostgreSQL**, **MongoDB**, and **Elasticsearch**. I design scalable, sustainable systems and contribute to production-grade applications in team environments.
+
+- 🔭 I'm currently working at **NEW MIND** as a **Full Stack Developer**
 - 🌱 I'm currently learning **Advanced AI/ML Technologies**
 - 👯 I'm looking to collaborate on **Open Source AI Projects**
 - 💬 Ask me about **Python, React, Node.js, AI/ML, Web Scraping**
@@ -49,8 +63,9 @@
 #### **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### **AI & Testing**
@@ -74,22 +89,20 @@
 
 <div align="center">
 
-#### **Current Role: Web Department Developer**
+#### **Full Stack Developer @ NEW MIND**  
+**May 2023 – Present**
 
-**Company:** Yapay Zeka Teknolojileri ile Uğraşan Bilgi Yönetim Sistemlerinde  
-**Focus Areas:**
+- 🔧 Developed and maintained **backend services** for **AI-powered legal technology platforms** (Python & Node.js)
+- 📊 Processed **large-scale legal datasets** in production environments
+- 🕷️ Designed and built **automated web scraping and data extraction pipelines**
+- 🛠️ **Web scraping stack:** Scrapy, BeautifulSoup, Selenium, custom scripts — collecting legal documents from open-source platforms
 
-- 🔧 **Backend Development** - Building robust server-side applications
-- 🕷️ **Web Scraping** - Expert in data extraction and automation
-- 📊 **Data Processing** - Transforming raw data into actionable insights
-- 🔄 **System Integration** - Connecting various data sources and APIs
+#### **Focus Areas**
 
-#### **Key Skills & Expertise**
-
+- **Backend:** Python, Node.js, REST APIs, Database design
 - **Web Scraping:** Beautiful Soup, Scrapy, Selenium, Requests
-- **Data Processing:** Pandas, NumPy, Data cleaning and transformation
-- **Backend:** Node.js, Python, REST APIs, Database management
-- **Automation:** Automated data collection and processing pipelines
+- **Data & Search:** Pandas, NumPy, Elasticsearch, PostgreSQL, MongoDB
+- **System Design:** Scalable, sustainable systems and production-grade applications
 
 </div>
 
@@ -124,6 +137,9 @@
 ### 🤝 Connect With Me
 
 <div align="center">
+  <a href="https://ozcantarkbugra.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/ozcantarkbugra" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -162,5 +178,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+and+build+amazing+things+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+and+build+amazing+things+together!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
