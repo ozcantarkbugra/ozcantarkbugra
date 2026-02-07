@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Merhaba!+I'm+Tar%C4%B1k+%F0%9F%91%8B;Full+Stack+Developer;Web+Scraping+Expert;Backend+Developer;Data+Processing+Specialist" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ozcantarkbugra&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ### 👨‍💻 About Me
